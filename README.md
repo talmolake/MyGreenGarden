@@ -37,5 +37,29 @@ The application provides users with plant guides containing important details su
 
 ## Screenshots
 
-(Add screenshots)
+<p align="center">
+<h4>Login screen:</h4> <br/>
+<img src="https://imgur.com/IdUCxZP.png" height="50%" width="40%" alt="Welcome Screen"/>
+<br />
+<h4>Home Screen:</h4> <br/>
+<img src="https://imgur.com/OIselhF.png" height="50%" width="40%" alt="Welcome Screen"/>
+<br />
+<h4>Plant Guides:</h4> <br/>
+<img src="https://imgur.com/8GMIQ8E.png" height="50%" width="40%" alt="Welcome Screen"/>
+<br />
+<h4>Plat Details:</h4> <br/>
+<img src="https://imgur.com/PoHrLlv.png" height="50%" width="40%" alt="Welcome Screen"/>
+<br />
+<h4>Watering Calculator:</h4> <br/>
+<img src="https://imgur.com/MnUIC0u.png" height="50%" width="40%" alt="Welcome Screen"/>
+<br />
+<h4>Add Plants:</h4> <br/>
+<img src="https://imgur.com/mmInDOL.png" height="50%" width="40%" alt="Welcome Screen"/>
+<br />
+<h4>Settings:</h4> 
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://imgur.com/EnE5XPt.png" alt="Light Mode" style="max-width: 20%; height: 50%;">
+    <img src="https://imgur.com/A0tME6b.png" alt=Dark Mode" style="max-width: 20%; height: 50%;">
+</div>
+
 
