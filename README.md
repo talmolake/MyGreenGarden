@@ -59,7 +59,7 @@ The application provides users with plant guides containing important details su
 <h4>Settings:</h4> 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://imgur.com/EnE5XPt.png" alt="Light Mode" style="max-width: 20%; height: 50%;">
-    <img src="https://imgur.com/A0tME6b.png" alt=Dark Mode" style="max-width: 20%; height: 50%;">
+    <img src="https://imgur.com/FiflT62.png" alt="Dark Mode" style="max-width: 20%; height: 50%;">
 </div>
 
 
